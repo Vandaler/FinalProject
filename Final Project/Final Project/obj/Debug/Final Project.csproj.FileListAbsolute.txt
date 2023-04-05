@@ -1,0 +1,11 @@
+D:\s code\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\s code\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\s code\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\s code\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+D:\s code\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+D:\s code\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+D:\s code\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\s code\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\s code\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\s code\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\s code\Final Project\Final Project\obj\Debug\Final Project.pdb
