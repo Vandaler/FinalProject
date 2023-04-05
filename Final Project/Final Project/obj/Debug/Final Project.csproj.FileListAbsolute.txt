@@ -9,3 +9,14 @@ D:\s code\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateRes
 D:\s code\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
 D:\s code\Final Project\Final Project\obj\Debug\Final Project.exe
 D:\s code\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\panuw\Desktop\New folder\FinalProject\Final Project\Final Project\obj\Debug\Final Project.pdb

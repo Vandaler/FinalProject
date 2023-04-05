@@ -35,7 +35,6 @@ namespace Final_Project
         private void Form1_Load(object sender, EventArgs e)
         {
             comboBox1.Text = "เลือกเวลา";
-
             Dt.Columns.Add("ชื่อผู้จอง");
             Dt.Columns.Add("หมายเลขที่จอด");
             Dt.Columns.Add("วันที่จอง");
