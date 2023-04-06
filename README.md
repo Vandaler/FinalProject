@@ -28,7 +28,7 @@ classDiagram
 class Form1{
  <<Interface>>
 }
-Form1 : Dt
+Form1 : Datatable
 Form1 : Vehicle
 
 class Vehicle
